@@ -6,7 +6,7 @@ The course will be using JupyterLab Notebooks to support statistical concepts fo
 - Significant Digits
 - Tutorial 1:  Read and Explore Data
 
-Click on the BinderHub tab here for a cloud service that allows users to share reproducible interactive computing environments from code repositories. 
+Click on the BinderHub launch here for a cloud service that allows users to share reproducible interactive computing environments from code repositories. 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cbassim/IBEHS-4C03/HEAD)
 
