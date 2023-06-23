@@ -3,6 +3,7 @@
 The course will be using JupyterLab Notebooks to support statistical concepts for the IBEHS 4C03 Course. This GitHub repository will hold these Jupyter Notebooks.  
 
 - Python Review
+- Tutorial 0:  Install libraries for Python
 - Significant Digits
 - Tutorial 1:  Read and Explore Data
 
