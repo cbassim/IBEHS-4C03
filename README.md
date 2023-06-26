@@ -5,7 +5,8 @@ The course will be using JupyterLab Notebooks to support statistical concepts fo
 - Python Review
 - Tutorial 0:  Install libraries for Python
 - Significant Digits
-- Tutorial 1:  Read and Explore Data
+- Tutorials 1 through 11 for IBEHS 4C03
+- Enrichment Tutorials throughout and as stand-alone topics
 
 Click on the BinderHub launch here for a cloud service that allows users to share reproducible interactive computing environments from code repositories. 
 
