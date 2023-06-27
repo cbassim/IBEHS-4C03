@@ -13,3 +13,5 @@ Click on the BinderHub launch here for a cloud service that allows users to shar
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cbassim/IBEHS-4C03/HEAD)
 
 For more information on BinderHub visit https://mybinder.org/.
+
+This course has its foundation in a course by Kevin Dunn, who has a supporting website at Process Inprovemnt Using Data:  https://learnche.org/pid/.  This website has many resources that can be accessed.  
