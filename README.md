@@ -14,4 +14,4 @@ Click on the BinderHub launch here for a cloud service that allows users to shar
 
 For more information on BinderHub visit https://mybinder.org/.
 
-This course has its foundation in Statistics for Engineering courses at McMaster University by Kevin Dunn, who has a supporting website at Process Inprovemnt Using Data:  https://learnche.org/pid/.  This website has many resources that can be accessed.  
+This course has its foundation in Statistics for Engineering courses at McMaster University by Kevin Dunn, who has a supporting website at Process Inprovement Using Data:  https://learnche.org/pid/.  This website has many resources that can be accessed.  
